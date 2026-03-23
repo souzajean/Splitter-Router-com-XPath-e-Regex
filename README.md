@@ -30,7 +30,7 @@ Neste artigo, vamos construir um cenário completo utilizando:
 ### Criando o Integration Flow
 ![Fluxo](imagens/Screenshot_2.png)
 ```
-CustomContentModifier
+ZPKG_TRAINING_CPI_ROUTING
 ```
 <br><br>
 
@@ -42,7 +42,7 @@ CustomContentModifier
 ### Criando o Integration Flow
 ![Fluxo](imagens/Screenshot_4.png)
 ```
-ModifyContentModifier
+ZIF_COURSE_SPLIT_ROUTING
 ```
 
 
