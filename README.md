@@ -183,6 +183,15 @@ Create	- Content-Type	- Constant - application/xml
 ```
 
 <br>
+
+# 7️⃣Gather
+
+🔹 1. Adicionar o Gather
+![Fluxo](imagens/Screenshot_22.png)
+```
+GATHER_Numeric
+```
+
 <br>
 <br>
 <br>
