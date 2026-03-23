@@ -122,11 +122,17 @@ Responsável por simular a entrada de dados.
 ![Fluxo](imagens/Screenshot_12.png)
 Nome: ```SPLIT_Course_List```
 
-Configuração:
 
+🔹 3. Configuração:
+![Fluxo](imagens/Screenshot_13.png)
+```
 /courses/list/course
+```
 
 👉 Cada <course> será processado individualmente.
+
+
+<br>
 
 🔹 3. Router (XPath + Regex)
 
