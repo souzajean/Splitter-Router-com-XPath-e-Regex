@@ -23,6 +23,29 @@ Neste artigo, vamos construir um cenário completo utilizando:
 :gear: Etapas da Integração
 <br><br>
 
+### Criando nosso Iflow
+![Fluxo](imagens/Screenshot_1.png)
+<br><br><br>
+
+### Criando o Integration Flow
+![Fluxo](imagens/Screenshot_2.png)
+```
+CustomContentModifier
+```
+<br><br>
+
+### Adicionando o Artefato do Integration Flow
+![Fluxo](imagens/Screenshot_3.png)
+
+<br><br>
+
+### Criando o Integration Flow
+![Fluxo](imagens/Screenshot_4.png)
+```
+ModifyContentModifier
+```
+
+
 ### :one: O fluxo foi desenvolvido no SAP Cloud Integration (CPI) seguindo as etapas abaixo.
 
 <br>
