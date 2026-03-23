@@ -112,10 +112,18 @@ Responsável por simular a entrada de dados.
 <br>
 
 # 4️⃣General Splitter
-🔹 2. General Splitter
+🔹 1. General Splitter
 ![Fluxo](imagens/Screenshot_11.png)
 
-Nome: SPLIT_Course_List
+
+<br>
+
+🔹 2. Renomeando General Splitter
+![Fluxo](imagens/Screenshot_11.png)
+Nome: 
+```
+SPLIT_Course_List
+```
 
 Configuração:
 
