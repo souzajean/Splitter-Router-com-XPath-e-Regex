@@ -51,11 +51,11 @@ ZIF_COURSE_SPLIT_ROUTING
 ### Editar o Iflow
 ![Fluxo](imagens/Screenshot_5.png)
 
-### :one: O fluxo foi desenvolvido no SAP Cloud Integration (CPI) seguindo as etapas abaixo.
+### 🖥️ O fluxo foi desenvolvido no SAP Cloud Integration (CPI) seguindo as etapas abaixo.
 
 <br>
 
-### :three:  HTTPS Sender
+### 2️⃣ HTTPS Sender
 ### Adicionando o HTTPS
 ![Fluxo](imagens/Screenshot_6.png)
 
