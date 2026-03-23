@@ -44,7 +44,10 @@ ZPKG_TRAINING_CPI_ROUTING
 ```
 ZIF_COURSE_SPLIT_ROUTING
 ```
+<br>
 
+### Editar o Iflow
+![Fluxo](imagens/Screenshot_5.png)
 
 ### :one: O fluxo foi desenvolvido no SAP Cloud Integration (CPI) seguindo as etapas abaixo.
 
