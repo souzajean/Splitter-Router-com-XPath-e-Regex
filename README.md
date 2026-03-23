@@ -85,13 +85,35 @@ Nome: CM_Set_Initial_Payload
 Tipo: Constant
 ```
 
+🔹 3. Adicionando o conteúdo no Body
 Responsável por simular a entrada de dados.
+![Fluxo](imagens/Screenshot_10.png)
+```
+<courses>
+    <list>
+        <course>
+            <name>Programming</name>
+            <fee>300</fee>
+        </course>
+        <course>
+            <name>Business</name>
+            <fee>1200</fee>
+        </course>
+        <course>
+            <name>Business Advanced</name>
+            <fee>free</fee>
+        </course>
+    </list>
+</courses>
+```
+
+
 
 <br>
 
 # 4️⃣General Splitter
 🔹 2. General Splitter
-![Fluxo](imagens/Screenshot_10.png)
+![Fluxo](imagens/Screenshot_11.png)
 
 Nome: SPLIT_Course_List
 
