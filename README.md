@@ -74,6 +74,10 @@ Address: /regex
 
 🔹 1. Content Modifier – Payload inicial
 ![Fluxo](imagens/Screenshot_8.png)
+
+<br>
+
+![Fluxo](imagens/Screenshot_9.png)
 ```
 Nome: CM_Set_Initial_Payload
 Tipo: Constant
@@ -82,11 +86,9 @@ Responsável por simular a entrada de dados.
 
 <br>
 
-![Fluxo](imagens/Screenshot_8.png)
-
 # 4️⃣General Splitter
 🔹 2. General Splitter
-![Fluxo](imagens/Screenshot_9.png)
+![Fluxo](imagens/Screenshot_10.png)
 
 Nome: SPLIT_Course_List
 
