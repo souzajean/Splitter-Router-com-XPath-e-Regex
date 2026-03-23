@@ -76,7 +76,7 @@ Address: /regex
 ![Fluxo](imagens/Screenshot_8.png)
 
 <br>
-
+🔹 2. Renomeando o Content Modifier
 ![Fluxo](imagens/Screenshot_9.png)
 ```
 Nome: CM_Set_Initial_Payload
