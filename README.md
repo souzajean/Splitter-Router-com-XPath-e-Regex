@@ -14,7 +14,7 @@ Neste artigo, vamos construir um cenário completo utilizando:
 ✔️ General Splitter <br>
 ✔️ Router com XPath + Regex <br>
 ✔️ Tratamento por rotas <br> <br>
-
+![Fluxo](imagens/capa-linkedin.png)
 ---
 
 
