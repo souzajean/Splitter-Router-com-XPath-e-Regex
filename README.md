@@ -150,12 +150,13 @@ Nome: ROUTER_Course_Type
 ```
 
 🔹 3. Rotas configuradas:
-
+![Fluxo](imagens/Screenshot_17.png)
 ➡️Rota Default
 ```
 EXCEPTION_Handler
 ```
-
+🔹 4. Marcardo como principal
+![Fluxo](imagens/Screenshot_18.png)
 
 
 🟢 Rota Numérica
