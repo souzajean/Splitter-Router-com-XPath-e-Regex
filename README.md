@@ -155,6 +155,7 @@ Nome: ROUTER_Course_Type
 ```
 EXCEPTION_Handler
 ```
+
 🔹 4. Marcardo como principal
 ![Fluxo](imagens/Screenshot_18.png)
 
@@ -174,6 +175,7 @@ CM_EXCEPTION_Handler
 Message Header
 Create	- Content-Type	- Constant - application/xml
 ```
+
 🔹 3. Adicionando Body:
 ![Fluxo](imagens/Screenshot_21.png)
 ```
@@ -188,9 +190,40 @@ Create	- Content-Type	- Constant - application/xml
 
 🔹 1. Adicionar o Gather
 ![Fluxo](imagens/Screenshot_22.png)
+
+🔹 2. Renomeando o Gather 
+![Fluxo](imagens/Screenshot_23.png)
 ```
 GATHER_Numeric
 ```
+🔹 3. Configurando o Gather 
+![Fluxo](imagens/Screenshot_24.png)
+```
+Aggregation Strategy
+Gather Incoming Format: (XML Same Format)
+Aggregation Algorithn: Combine 
+```
+
+🔹 4. Adicionando o Gather 
+![Fluxo](imagens/Screenshot_25.png)
+```
+GATHER_Text
+```
+🔹 5. Adicionando o Gather 
+![Fluxo](imagens/Screenshot_26.png)
+```
+GATHER_Business
+```
+
+🔹 7. Configuração do Gather
+![Fluxo](imagens/Screenshot_27.png)
+
+```
+Aggregation Strategy
+Gather Incoming Format: (XML Same Format)
+Aggregation Algorithn: Combine 
+```
+
 
 <br>
 <br>
