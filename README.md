@@ -134,11 +134,30 @@ Nome: ```SPLIT_Course_List```
 
 <br>
 
-🔹 3. Router (XPath + Regex)
+🔹 4. Removendo o Receiver
+![Fluxo](imagens/Screenshot_14.png)
 
+<br>
+
+# 5️⃣Router
+🔹 1. Router (XPath + Regex)
+![Fluxo](imagens/Screenshot_15.png)
+
+🔹 2. Renomeando Router 
+![Fluxo](imagens/Screenshot_16.png)
+```
 Nome: ROUTER_Course_Type
+```
 
-Rotas configuradas:
+🔹 3. Rotas configuradas:
+
+➡️Rota Default
+```
+EXCEPTION_Handler
+```
+
+
+
 🟢 Rota Numérica
 matches(fee,'\d+')
 
