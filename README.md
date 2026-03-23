@@ -158,6 +158,46 @@ EXCEPTION_Handler
 🔹 4. Marcardo como principal
 ![Fluxo](imagens/Screenshot_18.png)
 
+<br>
+
+# 6️⃣ Content Modifier
+
+🔹 1. Renomeando o Content Modifie
+![Fluxo](imagens/Screenshot_19.png)
+```
+CM_EXCEPTION_Handler
+```
+
+🔹 2. Adicionando HEADER 
+![Fluxo](imagens/Screenshot_20.png)
+```
+Message Header
+Create	- Content-Type	- Constant - application/xml
+```
+🔹 3. Adicionando Body:
+```
+<results_erro>
+	${body}
+</results_erro>
+```
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
 
 🟢 Rota Numérica
 matches(fee,'\d+')
