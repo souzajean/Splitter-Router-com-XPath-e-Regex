@@ -239,18 +239,77 @@ Route Numerico
 //course[matches(fee,'\d+')]
 ```
 
+🔹 3. Conectando o Gather
 ![Fluxo](imagens/Screenshot_30.png)
 ```
 Route Texto
 ```
 
-🔹 2. Configuração da conexão do Router para o Gather 
+🔹 4. Configuração da conexão do Router para o Gather 
 ![Fluxo](imagens/Screenshot_31.png)
 ```
 //course[matches(fee,'[a-zA-Z]')]
 ```
 
+🔹 5. Conectando o Gather
+![Fluxo](imagens/Screenshot_32.png)
+```
+Route Business
+```
+
+🔹 6. Configuração da conexão do Router para o Gather 
+![Fluxo](imagens/Screenshot_33.png)
+```
+//course[matches(name,'Business.+')]
+```
 <br>
+
+# 8️⃣ Content Modifier
+🔹 1. Adicionando o Content Modifier
+![Fluxo](imagens/Screenshot_34.png)
+
+🔹 2. Renomeando o  Content Modifier
+![Fluxo](imagens/Screenshot_35.png)
+```
+CM_Format_Numeric
+```
+
+🔹 3. Adicionando o Header
+![Fluxo](imagens/Screenshot_36.png)
+```
+Message Header
+Create	- Content-Type	- Constant - application/xml
+```
+🔹 4. Adicionando Body:
+![Fluxo](imagens/Screenshot_37.png)
+```
+<results>
+	${body}
+</results>
+```
+
+🔹 5. Copiar e Colar o Content Modifier
+![Fluxo](imagens/Screenshot_38.png)
+
+🔹 6. Renomeando a cópia
+![Fluxo](imagens/Screenshot_39.png)
+```
+CM_Format_Text
+```
+
+🔹 7. Renomeando a cópia
+![Fluxo](imagens/Screenshot_40.png)
+```
+CM_Format_Business
+```
+
+🔹 8. Ficando dessa forma a configurações da cópia
+![Fluxo](imagens/Screenshot_41.png)
+
+
+🔹 9. Conectando o GATHER no Content Modifier
+![Fluxo](imagens/Screenshot_42.png)
+
 <br>
 <br>
 <br>
