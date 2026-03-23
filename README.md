@@ -55,7 +55,7 @@ ZIF_COURSE_SPLIT_ROUTING
 
 <br>
 
-### 2️⃣ HTTPS Sender
+# 2️⃣ HTTPS Sender
 ### Adicionando o HTTPS
 ![Fluxo](imagens/Screenshot_6.png)
 
@@ -70,15 +70,23 @@ Address: /regex
 ```
 <br>
 
-
+# 3️⃣Content Modifier
 
 🔹 1. Content Modifier – Payload inicial
+![Fluxo](imagens/Screenshot_8.png)
+```
 Nome: CM_Set_Initial_Payload
 Tipo: Constant
-
+```
 Responsável por simular a entrada de dados.
 
+<br>
+
+![Fluxo](imagens/Screenshot_8.png)
+
+# 4️⃣General Splitter
 🔹 2. General Splitter
+![Fluxo](imagens/Screenshot_9.png)
 
 Nome: SPLIT_Course_List
 
