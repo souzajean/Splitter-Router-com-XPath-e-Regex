@@ -310,6 +310,12 @@ CM_Format_Business
 🔹 9. Conectando o GATHER no Content Modifier
 ![Fluxo](imagens/Screenshot_42.png)
 
+🔹 10. Conectando o Content Modifier END
+![Fluxo](imagens/Screenshot_43.png)
+
+<br>
+
+
 <br>
 <br>
 <br>
@@ -322,7 +328,8 @@ CM_Format_Business
 <br>
 <br>
 <br>
-<br>
+
+
 
 
 
