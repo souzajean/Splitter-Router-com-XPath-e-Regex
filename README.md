@@ -10,10 +10,10 @@ Tratar diferentes tipos de conteúdo
 
 Neste artigo, vamos construir um cenário completo utilizando:
 
-✔️ Content Modifier
-✔️ General Splitter
-✔️ Router com XPath + Regex
-✔️ Tratamento por rotas
+✔️ Content Modifier <br>
+✔️ General Splitter <br>
+✔️ Router com XPath + Regex <br>
+✔️ Tratamento por rotas <br> <br>
 
 🔹 1. Content Modifier – Payload inicial
 Nome: CM_Set_Initial_Payload
