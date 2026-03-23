@@ -77,11 +77,14 @@ Address: /regex
 
 <br>
 🔹 2. Renomeando o Content Modifier
+
 ![Fluxo](imagens/Screenshot_9.png)
+
 ```
 Nome: CM_Set_Initial_Payload
 Tipo: Constant
 ```
+
 Responsável por simular a entrada de dados.
 
 <br>
