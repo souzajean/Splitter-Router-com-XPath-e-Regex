@@ -55,21 +55,18 @@ ZIF_COURSE_SPLIT_ROUTING
 
 ### :three:  HTTPS Sender
 ### Adicionando o HTTPS
-![Fluxo](imagens/Screenshot_8.png)
+![Fluxo](imagens/Screenshot_6.png)
 
 <br>
 
 
 ### Configurando o HTTPS
 O fluxo é iniciado através de um endpoint HTTPS, permitindo que aplicações externas consultem o serviço.
-![Fluxo](imagens/Screenshot_9.png)
+![Fluxo](imagens/Screenshot_7.png)
 ```
-Address: /attachment-demor
+Address: /regex
 ```
 <br>
-
-
-
 
 
 
