@@ -175,6 +175,7 @@ Message Header
 Create	- Content-Type	- Constant - application/xml
 ```
 🔹 3. Adicionando Body:
+![Fluxo](imagens/Screenshot_21.png)
 ```
 <results_erro>
 	${body}
