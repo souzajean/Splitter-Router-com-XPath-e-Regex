@@ -53,6 +53,25 @@ ZIF_COURSE_SPLIT_ROUTING
 
 <br>
 
+### :three:  HTTPS Sender
+### Adicionando o HTTPS
+![Fluxo](imagens/Screenshot_8.png)
+
+<br>
+
+
+### Configurando o HTTPS
+O fluxo é iniciado através de um endpoint HTTPS, permitindo que aplicações externas consultem o serviço.
+![Fluxo](imagens/Screenshot_9.png)
+```
+Address: /attachment-demor
+```
+<br>
+
+
+
+
+
 
 🔹 1. Content Modifier – Payload inicial
 Nome: CM_Set_Initial_Payload
