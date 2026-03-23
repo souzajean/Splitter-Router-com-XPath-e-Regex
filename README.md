@@ -223,7 +223,32 @@ Aggregation Strategy
 Gather Incoming Format: (XML Same Format)
 Aggregation Algorithn: Combine 
 ```
+<br>
 
+# 8️⃣ Conectando ROUTER para GATHER
+
+🔹 1. Conectando o Gather
+![Fluxo](imagens/Screenshot_28.png)
+```
+Route Numerico
+```
+
+🔹 2. Configuração da conexão do Router para o Gather 
+![Fluxo](imagens/Screenshot_29.png)
+```
+//course[matches(fee,'\d+')]
+```
+
+![Fluxo](imagens/Screenshot_30.png)
+```
+Route Texto
+```
+
+🔹 2. Configuração da conexão do Router para o Gather 
+![Fluxo](imagens/Screenshot_31.png)
+```
+//course[matches(fee,'[a-zA-Z]')]
+```
 
 <br>
 <br>
