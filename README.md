@@ -15,6 +15,19 @@ Neste artigo, vamos construir um cenário completo utilizando:
 ✔️ Router com XPath + Regex <br>
 ✔️ Tratamento por rotas <br> <br>
 
+---
+
+
+# :building_construction: Arquitetura do iFlow
+<br>
+:gear: Etapas da Integração
+<br><br>
+
+### :one: O fluxo foi desenvolvido no SAP Cloud Integration (CPI) seguindo as etapas abaixo.
+
+<br>
+
+
 🔹 1. Content Modifier – Payload inicial
 Nome: CM_Set_Initial_Payload
 Tipo: Constant
